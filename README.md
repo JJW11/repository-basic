@@ -8,3 +8,5 @@ test basic repository functions
 * Local로 Commit
 * Remote로 push
 ### 를 연습하기 위해 만들어졌습니다.
+학번 2020732015
+이름 장재원
